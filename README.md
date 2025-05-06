@@ -33,7 +33,7 @@ Git y GitHub
 Si deseas ejecutar el proyecto en tu equipo:
 
 # Clona el repositorio
-git clone https://github.com/mario-sound/creative-agency_project-CSS002
+git@github.com:Obidis/creative.git
 
 # Entra en la carpeta del proyecto
 cd creative-agency_project-CSS002
