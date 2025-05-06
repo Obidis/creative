@@ -29,19 +29,5 @@ Sass (SCSS)
 Flexbox y Grid
 Vite
 Git y GitHub
-🛠 Instalación y Uso
-Si deseas ejecutar el proyecto en tu equipo:
-
-# Clona el repositorio
-git@github.com:Obidis/creative.git
-
-# Entra en la carpeta del proyecto
-cd creative-agency_project-CSS002
-
-# Instala dependencias
-npm install
-
-# Ejecuta el servidor de desarrollo
-npm run dev
 
 ¡Gracias por visitar este proyecto! 🚀
